@@ -1,7 +1,8 @@
 # Dashboard de Temperatura Proyectada en México
-# Dashboard de Temperatura Proyectada en México
+
 
 ![Dashboard](dashboard.png)
+
 Aplicación desarrollada en **R Shiny** para visualizar proyecciones de temperatura en México sobre una malla hexagonal de 10 km.
 
 El dashboard permite explorar diferentes escenarios de cambio climático mediante un mapa interactivo, con filtros por escenario, año y estado.
